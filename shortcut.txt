@@ -1,0 +1,4 @@
+<< commands cdm >>
+
+tsc -w | Open Compilador
+node dist/app | Execute in console  
